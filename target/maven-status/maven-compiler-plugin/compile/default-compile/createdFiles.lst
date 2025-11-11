@@ -1,0 +1,17 @@
+com\flashnews\external\NewsAPIClient.class
+com\flashnews\model\Location.class
+com\flashnews\util\MockDataGenerator.class
+com\flashnews\filter\CacheControlFilter.class
+com\flashnews\dao\LocationDAO.class
+com\flashnews\model\NewsArticle.class
+com\flashnews\service\NewsService.class
+com\flashnews\database\DatabaseConnection.class
+com\flashnews\dao\NewsArticleDAO.class
+com\flashnews\service\UserService.class
+com\flashnews\model\User.class
+com\flashnews\filter\CharacterEncodingFilter.class
+com\flashnews\dao\CategoryDAO.class
+com\flashnews\listener\DatabaseInitializationListener.class
+com\flashnews\model\Category.class
+com\flashnews\service\impl\NewsServiceImpl.class
+com\flashnews\servlet\NewsServlet.class
